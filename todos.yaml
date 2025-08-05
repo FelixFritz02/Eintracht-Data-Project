@@ -1,0 +1,4 @@
+- Pässe Score, je nach Raumgewinn --> Raumaufteilung mit Scores
+- langsame Aufbausituationen erkennen und dort hohes Anlaufen erkennen
+- Torschüsse nochmal nach Toren durchgehen
+- Clustering der Spieler mit allen X-Werten und K = 4 -> Torwart, Abwehr, Mittelfeld, Sturm
